@@ -1,1 +1,1 @@
-# MCUTILDISCORDBOT
+So this is code for a discord bot that will help as a utility for the users to check if their favorite minecraft servers are online or not with the discord social media platform with just a simplle command.
